@@ -115,7 +115,7 @@ It described later conflicts.It described nuclear conflict in the twenty-first c
 Hartmann wrote that his Western friends were gone.
 America had been involved in nuclear conflicts.
 Cities had been destroyed.Civilization had survived but had become fragmented.
-The future scientist wrote:"I miss my Western friends."That sentence affected the 1912 Hartmann more than the descriptions of weapons.
+The future scientist wrote:"I miss my Western friends."That sentence affected Weber in 1912 more than the descriptions of weapons.
 The future was not merely a collection of dates.It contained people.
 People who had lived, laughed, gone to work.
 People who had loved.and those most of which all disappeared.
@@ -134,10 +134,10 @@ It had to create a precisely timed information state inside a region of extreme 
 produce the correlation naturally.The final calculation produced a date.1912.
 Hartmann entered the destination.Germany-Austria.The computer accepted the year.
 The computer accepted the temporal parameters.The spatial calculation began.
-Then the machine produced a warning.LOCATION UNCERTAINTY.Hartmann ignored it.He had no choice.
+Then the machine produced a warning.LOCATION UNCERTAINTY
 
 CHAPTER TWELVE — THE RADIATION BOUNCE
-The future Hartmann's theory depended on an extreme environment.
+Hartmann's theory depended on an extreme environment.
 Highly radiated ruins produced electromagnetic and atomic noise unlike ordinary Earth environments. The supercomputer calculated how individual electron states could statistically interact with that noise. The information pattern would be embedded within a simple sequence, and the computer would attempt to synchronize that sequence with a calculated temporal boundary.The experiment was therefore not a glowing portal.
 It was not a doorway.It was an information experiment.The machine created a precisely structured physical signal and 
 allowed it to interact with an environment so chaotic that ordinary information should have been destroyed.
@@ -174,7 +174,7 @@ Mehmet smiled sadly."Perhaps the universe has an unlimited supply of second chan
 he replied:"Perhaps it has an unlimited supply of mistakes."
 
 CHAPTER FIFTEEN — THE BLUEPRINTS
-The encrypted message contained information concerning technologies that did not yet exist in practical 1912 form. The scientists found descriptions of armored vehicles, continuous tracks, battlefield communications, industrial systems, compact automatic weapons, improved mechanical components, and materials science.The SBG appeared repeatedly.It was described as a compact automatic battlefield weapon designed around ammunition already available to the era. Thefuture information emphasized that the breakthrough was not necessarily the invention of a new bullet but the development of a more efficient machine capable of using existing ammunition in a compact automatic configuration.The 1912 engineers began drawing the conceptual architecture.
+The encrypted message contained information concerning technologies that did not yet exist in practical 1912 form. The scientists found descriptions of armored vehicles, continuous tracks, battlefield communications, industrial systems, compact automatic weapons, improved mechanical components, and materials science.The SBG appeared repeatedly.It was described as a compact automatic battlefield weapon designed around ammunition already available to the era. The future information emphasized that the breakthrough was not necessarily the invention of a new bullet but the development of a more efficient machine capable of using existing ammunition in a compact automatic configuration.The 1912 engineers began drawing the conceptual architecture.
 Receiver.Operating system.Barrel.Feed mechanism.Spring system.Frame.Stock.Control mechanism.
 The message also described future composite materials.One phrase appeared repeatedly:
 KOHLENFASERFEDER.Carbon-fiber spring.The engineers did not possess modern carbon-fiber manufacturing.
