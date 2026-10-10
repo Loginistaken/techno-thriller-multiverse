@@ -366,4 +366,4 @@ WE KNOW YOU EXIST.The lights went out.Then every machine in the laboratory came 
 The multiverse had opened.And humanity was no longer alone on Earth.
 It was no longer alone in history.It was no longer alone in reality.
 THE END — OR THE BEGINNING OF THE MULTIVERSE World 
-Eric Lindau thanks GPT chat 
+Eric Lindau thanks GPT chat, and Grok for illustrations and description of stops to refuel paragraph , and describing Mehmet playing backgammon.
