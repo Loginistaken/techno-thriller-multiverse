@@ -25,9 +25,9 @@ Selim's expression did not change.
 Weber picked up his case."That usually means the explanation is interesting."
 "It usually means it is dangerous."
 
-CHAPTER THREE — MEHMET ARSLAN
+CHAPTER THREE —Meet  MEHMET 
 They took Weber through a series of government offices before finally entering a room where several scientists had gathered around a long wooden table. The room smelled of tobacco, paper, fresh stained wood, and strong coffee. Maps covered one wall. Telegraph diagrams covered another. A large blackboard was filled with equations that had been erased and rewritten so many times that ghostly traces remained beneath the newer calculations.
-At the end of the table stood Mehmet Arslan.
+At the end of the table stood Mehmet A.
 Mehmet was younger than Weber by nearly a decade. He had olive-toned skin, thick black hair, a narrow face, dark intelligent eyes, and a short, carefully maintained beard. He wore an Ottoman scholar's dark jacket beneath a Western-style laboratory coat, as though he could not decide which century he belonged to. His fingers were stained with ink. A pencil rested behind his right ear. Several sheets of mathematical calculations were folded inside his jacket.
 Mehmet spoke Turkish first to a commrade who brought a beverage to the table for Mehmet, then greeted Weber in English,  another language sat on the table infront of him numbers and his notes in an unfamiliar writing .
 "Punjabi?" Weber asked.
