@@ -284,7 +284,7 @@ Mehmet's old question remained.Is peace still peace when nobody is permitted to 
 
 CHAPTER TWENTY-FOUR — 2053
 The year 2053 arrived.
-On the original Earth, Dr. Friedrich Wilhelm Hartmann stood inside the ruined remains of the civilization he had tried to save.
+On the original Earth, Dr. Friedrich Hartmann stood inside the ruined remains of the civilization he had tried to save.
 The sky was dark.Radiation warnings continued to flash.
 Entire regions of the planet had become ruins.The United States and other nations had been involved in nuclear conflicts.
 Hartmann's Western friends were gone.The world he remembered was disappearing.
